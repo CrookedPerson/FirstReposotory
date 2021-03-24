@@ -1,3 +1,3 @@
 # FirstReposotory
 Just learning how it works
-###This is geadline
+###This is headline
